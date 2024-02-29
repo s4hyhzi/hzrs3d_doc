@@ -1,0 +1,11 @@
+{
+  "name": "hzrs3d_doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/s4hyhzi/hzrs3d_doc.git",
+  "author": "s4hyhzi <66248486+s4hyhzi@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
